@@ -1,0 +1,20 @@
+{
+    "name": "code-orange/encryptable",
+    "description": "Encryptable trait for Laravel models",
+    "type": "library",
+    "license": "UNLICENSED",
+    "authors": [
+        {
+            "name": "Yoran Sturkenboom",
+            "email": "yoran@code-orange.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CodeOrange\\Encryptable\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "^5.6"
+    }
+}
