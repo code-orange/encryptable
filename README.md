@@ -6,7 +6,7 @@ This package adds the encryptable trait to your laravel model which automaticall
 First, make sure you have the [Code Orange package registry](http://hub.nub.is/packages) set up correctly.
 
 ```
-composer require code-orange/adidas-auth-laravel
+composer require code-orange/encryptable
 ```
 
 ## Usage
